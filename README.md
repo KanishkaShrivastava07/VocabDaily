@@ -24,18 +24,15 @@ A simple Java console application that fetches a random English word using a pub
 
 ### How to run 
 
-bash
-Copy code
+# Check Java version
 java -version
-Compile the program:
-
 bash
 Copy code
+# Compile the program
 javac Main.java
-Run the program:
-
 bash
 Copy code
+# Run the program
 java Main
 
 ## Sample Output
