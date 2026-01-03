@@ -23,21 +23,15 @@ A simple Java console application that fetches a random English word using a pub
 
 ### How to run
 
+### How to run
+
 ```bash
 # Check Java version
 java -version
-bash
-Copy code
+
 # Compile the program
 javac Main.java
-bash
-Copy code
+
 # Run the program
 java Main
-Sample Output
-text
-Copy code
-Word: inspire
-Search online to find the meaning......
-nginx
-Copy code
+
