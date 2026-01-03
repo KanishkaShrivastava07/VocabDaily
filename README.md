@@ -19,11 +19,11 @@ A simple Java console application that fetches a random English word using a pub
 - **HttpURLConnection**
 - **BufferedReader & InputStreamReader**
 
-
 ---
 
-### How to run 
+### How to run
 
+```bash
 # Check Java version
 java -version
 bash
@@ -34,10 +34,10 @@ bash
 Copy code
 # Run the program
 java Main
-
-## Sample Output
-vbnet
+Sample Output
+text
 Copy code
 Word: inspire
 Search online to find the meaning......
-
+nginx
+Copy code
