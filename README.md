@@ -23,8 +23,6 @@ A simple Java console application that fetches a random English word using a pub
 
 ### How to run
 
-### How to run
-
 ```bash
 # Check Java version
 java -version
