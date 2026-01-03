@@ -36,5 +36,6 @@ java Main
 
 ## Sample Output
 
+```bash
 Word: inspire
 Search online to find the meaning......
